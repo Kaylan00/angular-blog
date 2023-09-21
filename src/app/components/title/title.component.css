@@ -1,0 +1,11 @@
+*{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color:#ffff;
+    font-size: 17.5rem;
+    font-weight: 900;
+    border-bottom: #1d1d1d solid 4px;
+}
